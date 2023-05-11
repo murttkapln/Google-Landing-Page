@@ -11,51 +11,28 @@
 </head>
 
 <body>
-    <header id="head">
-        <div class="nav-left">
-            <a class="left" href="">About</a>
-            <a class="left" href="">Store</a>
-        </div>
-        <div class="nav-right">
-            <a class="right" href="">Gmail</a>
-            <a class="right" href="">Images</a>
-            <div class="menu-icon">
-                <img class="header-right-icon" src="./images/icon-menu.jpg" alt="">
-            </div>
-            <button class="header-right-button" type="submit">Sign In</button>
+    <header class="header">
+        <div class="header__left">
+            <ul class="header__list">
+                <li class="header__item"><a class="header__link" href="">About</a></li>
+                <li class="header__item"><a class="header__link" href="">Store</a></li>
+            </ul>
         </div>
 
-
-        
-
+        <div class="header__right">
+            <ul class="header__list">
+                <li class="header__item"><a class="header__link" href="">Gmail</a></li>
+                <li class="header__item"><a class="header__link" href="">Images</a></li>
+                <li class="header__item"><a class="header__link" href=""><img class="header__link--appicon"
+                            src="./images/appicon.png" alt=""></a></li>
+                <li class="header__item"><a class="header__link" href=""><button
+                            class="header__link--button">Sign In</button></a></li>
+            </ul>
+        </div>
 
     </header>
-
-    <main id="center">
-        <section id="main-logo">
-            <article>
-                <img id="logo" 
-                src="./images/googlelogo.png" alt="">
-            </article>
+    <main class="main">
         
-            <article id="main-search-bar">
-                <div class="search-icon">
-                 <img src="./images/magnifying_glass.jpg" alt="">
-                </div>
-                
-                <div class="input-bar">
-                    <input 
-                type="search" 
-                name="search-bar" id="search-bar">
-                </div>
-
-            </article>
-
-            <article class="main-button">
-               <button>Google search</button>
-               <button >I'm Feeling Lucky</button>
-            </article>
-        </section>
     </main>
 </body>
 
