@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 ## Google Landing Page
@@ -27,7 +27,7 @@ google-landing-page (folder)
 
 ## Objective
 
-Build a Landing that is functionally similar to this: [Google Landing Page](https://anthonyins.github.io/google-landing/)
+Build a Landing that is functionally similar to this: [Google Landing Page](https://murttkapln.github.io/Google-Landing-Page/)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -65,13 +65,8 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 
 ## Resources
 
--  [Images]()
+-  [Images](https://github.com/murttkapln/Google-Landing-Page/tree/master/imagess)
 
 
 
 
-
-=======
-# Google-Landing-Page
-[visit](https://murttkapln.github.io/Google-Landing-Page/)
->>>>>>> 3fd2f1f00b7b1d860242267833733094fd862914
