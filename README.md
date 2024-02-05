@@ -65,7 +65,7 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 
 ## Resources
 
--  [Images](https://github.com/murttkapln/Google-Landing-Page/tree/master/imagess)
+-  [Images](https://github.com/murttkapln/Google-Landing-Page/tree/master/images)
 
 
 
