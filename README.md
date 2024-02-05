@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## Google Landing Page
@@ -70,3 +71,7 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 
 
 
+=======
+# Google-Landing-Page
+[visit](https://murttkapln.github.io/Google-Landing-Page/)
+>>>>>>> 3fd2f1f00b7b1d860242267833733094fd862914
