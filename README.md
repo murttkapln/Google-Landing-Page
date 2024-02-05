@@ -27,7 +27,7 @@ google-landing-page (folder)
 
 ## Objective
 
-Build a Landing that is functionally similar to this: [Google Landing Page](https://murttkapln.github.io/Google-Landing-Page/)
+Visit : [Google Landing Page](https://murttkapln.github.io/Google-Landing-Page/)
 
 ### At the end of the project, following topics are to be covered;
 
