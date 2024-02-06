@@ -15,7 +15,7 @@ Project aims to create google landing page.
 ```
 google-landing-page (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
+|----readme.md                
 |----images               
 |----index.html  
 |----style.css
